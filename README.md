@@ -1,7 +1,5 @@
 # Anusha Kanagala
 
- > This is my developer page.
-
 ## Current
 
 I'm pursuing my masters degree in the school of applied computer sciences from NW in spring 2021.
