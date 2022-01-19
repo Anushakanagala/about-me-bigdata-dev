@@ -1,4 +1,4 @@
-# about-me-bigdata-del
+# Anusha Kanagala
 
  > This is my developer page.
 
@@ -22,4 +22,4 @@ I'm from Kodad, Telangana State, India. I have pursued my under graduation from 
 
 ## Me
 
-![Image](https://github.com/Anushakanagala/about-me-bigdata-dev/blob/main/IMG_4166.jpg)
+<img src="https://github.com/Anushakanagala/about-me-bigdata-dev/blob/main/IMG_4166.jpg" width="200" height="300" />
